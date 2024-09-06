@@ -21,5 +21,5 @@ pelicula asi como su fecha de lanzamiento y descripción general de la trama. La
   ![Imagen 1 buscador peliculas](./images/buscador2.png)
   
 
-## Link del proyecto
-- [Buscador de peliculas](https://validar-formulario-firebas-js.netlify.app/).
+## Link del proyecto en la web
+- [Buscador de peliculas](https://buscador-de-peluculas.netlify.app/).
