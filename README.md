@@ -10,6 +10,9 @@ pelicula asi como su fecha de lanzamiento y descripción general de la trama. La
   - [The Movie Database](https://www.themoviedb.org/): Es una plataforma en línea que sirve como una base de datos cinematográfica que ofrece a los desarrolladores de aplicaciones y sitios
     web una API abierta que les permite la integración de su extenso catálogo de información en diversas plataformas y proyectos.
 
+## Link del proyecto en la web
+- [Buscador de peliculas](https://buscador-de-peluculas.netlify.app/).
+
 ## Imagenes del proyecto
 - Imagen 1 del buscador de Peliculas
 
@@ -19,7 +22,3 @@ pelicula asi como su fecha de lanzamiento y descripción general de la trama. La
 - Imagen 2 del buscador de Peliculas
 
   ![Imagen 1 buscador peliculas](./images/buscador2.png)
-  
-
-## Link del proyecto en la web
-- [Buscador de peliculas](https://buscador-de-peluculas.netlify.app/).
